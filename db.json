@@ -1,0 +1,168 @@
+{
+    "users": [
+        {
+            "created": "2021-02-05 12:23:23",
+            "userInc": 101,
+            "userID": "tee",
+            "firstName": "Thapelo",
+            "lastName": "Moeti",
+            "displayName": "Monate Events",
+            "email": "benzitto@gmail.com",
+            "verify_email": 0,
+            "phone": "+27790174178",
+            "verify_phone": 1
+        },
+        {
+            "created": "2021-02-05 12:23:23",
+            "userInc": 102,
+            "userID": "hectic_events",
+            "firstName": "Hectic",
+            "lastName": "Events",
+            "displayName": "Hectic Events",
+            "email": "HecticEvents@gmail.com",
+            "verify_email": 1,
+            "phone": "+27830171278",
+            "verify_phone": 1
+        }
+    ],
+    "events": [
+        {
+            "created":"2021-02-05 13:23:23",
+            "eventID": 101,
+            "userID": 101,
+            "eventName": "Total Splashout",
+            "dateStart": "2021-03-05 14:00:00",
+            "dateEnd": "2021-03-06 00:00:00",
+            "location": {
+                "address": {
+                    "street": "612 Malibu Street",
+                    "suburb": "Nkosini",
+                    "city": "Siyabuswa",
+                    "code": "0472"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/101.jpg",
+            "description": "It will be the best",
+            "summary": "The best"
+        },
+        {
+            "created":"2021-02-05 13:23:23",
+            "eventID": 102,
+            "userID": 101,
+            "eventName": "Total Splashout",
+            "dateStart": "2021-03-05 18:00:00",
+            "dateEnd": "2021-03-06 06:00:00",
+            "location": {
+                "address": {
+                    "street": "612 Malibu Street",
+                    "suburb": "Nkosini",
+                    "city": "Siyabuswa",
+                    "code": "0472"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/102.jpg",
+            "description": "It will be the best",
+            "summary": "The best"
+        },
+        {
+            "created":"2021-02-05 13:23:23",
+            "eventID": 104,
+            "userID": 103,
+            "eventName": "Nightshift Chillout",
+            "dateStart": "2021-03-05 18:00:00",
+            "dateEnd": "2021-03-06 06:00:00",
+            "location": {
+                "address": {
+                    "street": "12 Malibu Street",
+                    "suburb": "Hatfield",
+                    "city": "Pretoria",
+                    "code": "0472"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/104.jpg",
+            "description": "Hectic Events it will be the best",
+            "summary": "The best"
+        },
+        {
+            "created":"2021-03-04 13:23:23",
+            "eventID": 106,
+            "userID": 101,
+            "eventName": "Business Meeting",
+            "dateStart": "2021-03-06 18:00:00",
+            "dateEnd": "2021-03-06 22:00:00",
+            "location": {
+                "address": {
+                    "street": "612 Malibu Street",
+                    "suburb": "CBD",
+                    "city": "Pretoria",
+                    "code": "0021"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/106.jpg",
+            "description": "Monate Events it will be the best",
+            "summary": "The best"
+        },
+        {
+            "created":"2021-03-05 04:13:23",
+            "eventID": 116,
+            "userID": 101,
+            "eventName": "Total Splashout",
+            "dateStart": "2021-03-06 18:00:00",
+            "dateEnd": "2021-03-06 06:00:00",
+            "location": {
+                "address": {
+                    "street": "612 Malibu Street",
+                    "suburb": "Molokeng",
+                    "city": "Ndawong",
+                    "code": "0421"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/116.jpg",
+            "description": "Monate Events it will be the best",
+            "summary": "The best"
+        },
+        {
+            "created":"2021-03-05 04:13:23",
+            "eventID": 117,
+            "userID": 102,
+            "eventName": "In The Night",
+            "dateStart": "2021-03-08 18:00:00",
+            "dateEnd": "2021-03-09 06:00:00",
+            "location": {
+                "address": {
+                    "street": "2 First Street",
+                    "suburb": "Eastlyn",
+                    "city": "Pretoria",
+                    "code": "0021"
+                },
+                "gps": {
+                    "long": 0,
+                    "lat": 0
+                }
+            },
+            "featuredImage": "./img/events/2021/117.jpg",
+            "description": "Monate Events it will be the best",
+            "summary": "The best of the best will be heading it out"
+        }
+    ]
+}
