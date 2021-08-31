@@ -27,19 +27,17 @@
     ],
     "events": [
         {
-            "created":"2021-02-05 13:23:23",
+            "created": "2021-02-05 13:23:23",
             "eventID": 101,
             "userID": 101,
-            "eventName": "Total Splashout",
+            "title": "Total Splashout",
             "dateStart": "2021-03-05 14:00:00",
             "dateEnd": "2021-03-06 00:00:00",
-            "location": {
-                "address": {
-                    "street": "612 Malibu Street",
-                    "suburb": "Nkosini",
-                    "city": "Siyabuswa",
-                    "code": "0472"
-                },
+            "address": {
+                "street": "6142 Malibu Street",
+                "suburb": "Nkosini",
+                "city": "Siyabuswa",
+                "code": "0472",
                 "gps": {
                     "long": 0,
                     "lat": 0
@@ -50,19 +48,17 @@
             "summary": "The best"
         },
         {
-            "created":"2021-02-05 13:23:23",
+            "created": "2021-02-05 13:23:23",
             "eventID": 102,
             "userID": 101,
-            "eventName": "Total Splashout",
+            "title": "Total Splashout",
             "dateStart": "2021-03-05 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
-            "location": {
-                "address": {
-                    "street": "612 Malibu Street",
-                    "suburb": "Nkosini",
-                    "city": "Siyabuswa",
-                    "code": "0472"
-                },
+            "address": {
+                "street": "612 Morena Street",
+                "suburb": "Nkosini",
+                "city": "Siyabuswa",
+                "code": "0472",
                 "gps": {
                     "long": 0,
                     "lat": 0
@@ -73,19 +69,17 @@
             "summary": "The best"
         },
         {
-            "created":"2021-02-05 13:23:23",
+            "created": "2021-02-05 13:23:23",
             "eventID": 104,
             "userID": 103,
-            "eventName": "Nightshift Chillout",
+            "title": "Nightshift Chillout",
             "dateStart": "2021-03-05 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
-            "location": {
-                "address": {
-                    "street": "12 Malibu Street",
-                    "suburb": "Hatfield",
-                    "city": "Pretoria",
-                    "code": "0472"
-                },
+            "address": {
+                "street": "12 Malibu Street",
+                "suburb": "Hatfield",
+                "city": "Pretoria",
+                "code": "0472",
                 "gps": {
                     "long": 0,
                     "lat": 0
@@ -96,19 +90,17 @@
             "summary": "The best"
         },
         {
-            "created":"2021-03-04 13:23:23",
+            "created": "2021-03-04 13:23:23",
             "eventID": 106,
             "userID": 101,
-            "eventName": "Business Meeting",
+            "title": "Business Meeting",
             "dateStart": "2021-03-06 18:00:00",
             "dateEnd": "2021-03-06 22:00:00",
-            "location": {
-                "address": {
-                    "street": "612 Malibu Street",
-                    "suburb": "CBD",
-                    "city": "Pretoria",
-                    "code": "0021"
-                },
+            "address": {
+                "street": "612 First Avenue",
+                "suburb": "CBD",
+                "city": "Pretoria",
+                "code": "0021",
                 "gps": {
                     "long": 0,
                     "lat": 0
@@ -119,19 +111,17 @@
             "summary": "The best"
         },
         {
-            "created":"2021-03-05 04:13:23",
+            "created": "2021-03-05 04:13:23",
             "eventID": 116,
             "userID": 101,
-            "eventName": "Total Splashout",
+            "title": "Total Splashout",
             "dateStart": "2021-03-06 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
-            "location": {
-                "address": {
-                    "street": "612 Malibu Street",
-                    "suburb": "Molokeng",
-                    "city": "Ndawong",
-                    "code": "0421"
-                },
+            "address": {
+                "street": "22 Block Building",
+                "suburb": "Molokeng",
+                "city": "Ndawong",
+                "code": "0421",
                 "gps": {
                     "long": 0,
                     "lat": 0
@@ -142,19 +132,17 @@
             "summary": "The best"
         },
         {
-            "created":"2021-03-05 04:13:23",
+            "created": "2021-03-05 04:13:23",
             "eventID": 117,
             "userID": 102,
-            "eventName": "In The Night",
+            "title": "In The Night",
             "dateStart": "2021-03-08 18:00:00",
             "dateEnd": "2021-03-09 06:00:00",
-            "location": {
-                "address": {
-                    "street": "2 First Street",
-                    "suburb": "Eastlyn",
-                    "city": "Pretoria",
-                    "code": "0021"
-                },
+            "address": {
+                "street": "2 First Street",
+                "suburb": "Eastlyn",
+                "city": "Pretoria",
+                "code": "0021",
                 "gps": {
                     "long": 0,
                     "lat": 0
