@@ -34,13 +34,13 @@
             "dateStart": "2021-03-05 14:00:00",
             "dateEnd": "2021-03-06 00:00:00",
             "address": {
-                "street": "6142 Malibu Street",
-                "suburb": "Nkosini",
-                "city": "Siyabuswa",
-                "code": "0472",
+                "street": "349 Mackenzie Street",
+                "suburb": "Brooklyn",
+                "city": "Pretoria",
+                "code": "0011",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.765993,
+                    "long": 28.245393
                 }
             },
             "featuredImage": "./img/events/2021/101.jpg",
@@ -55,13 +55,13 @@
             "dateStart": "2021-03-05 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
             "address": {
-                "street": "612 Morena Street",
-                "suburb": "Nkosini",
-                "city": "Siyabuswa",
-                "code": "0472",
+                "street": "41-21 Ivy Street",
+                "suburb": "Sunnyside",
+                "city": "Pretoria",
+                "code": "0002",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.752775,
+                    "long": 28.219086
                 }
             },
             "featuredImage": "./img/events/2021/102.jpg",
@@ -76,13 +76,13 @@
             "dateStart": "2021-03-05 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
             "address": {
-                "street": "12 Malibu Street",
+                "street": "1102 Pretorius Street",
                 "suburb": "Hatfield",
                 "city": "Pretoria",
-                "code": "0472",
+                "code": "0028",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.744387,
+                    "long": 28.235137
                 }
             },
             "featuredImage": "./img/events/2021/104.jpg",
@@ -97,13 +97,13 @@
             "dateStart": "2021-03-06 18:00:00",
             "dateEnd": "2021-03-06 22:00:00",
             "address": {
-                "street": "612 First Avenue",
-                "suburb": "CBD",
+                "street": "149-113 Christoffel Str",
+                "suburb": "Pretoria West",
                 "city": "Pretoria",
-                "code": "0021",
+                "code": "0183",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.745933,
+                    "long": 28.170334
                 }
             },
             "featuredImage": "./img/events/2021/106.jpg",
@@ -118,13 +118,13 @@
             "dateStart": "2021-03-06 18:00:00",
             "dateEnd": "2021-03-06 06:00:00",
             "address": {
-                "street": "22 Block Building",
-                "suburb": "Molokeng",
-                "city": "Ndawong",
-                "code": "0421",
+                "street": "53-51 Duiker Str",
+                "suburb": "Monument Park",
+                "city": "Pretoria",
+                "code": "0105",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.799547,
+                    "long": 28.226886
                 }
             },
             "featuredImage": "./img/events/2021/116.jpg",
@@ -139,13 +139,13 @@
             "dateStart": "2021-03-08 18:00:00",
             "dateEnd": "2021-03-09 06:00:00",
             "address": {
-                "street": "2 First Street",
-                "suburb": "Eastlyn",
+                "street": "22 Koporo Str",
+                "suburb": "Nellmapius Extension 6",
                 "city": "Pretoria",
-                "code": "0021",
+                "code": "0122",
                 "gps": {
-                    "long": 0,
-                    "lat": 0
+                    "lat": -25.729275,
+                    "long": 28.372079
                 }
             },
             "featuredImage": "./img/events/2021/117.jpg",
