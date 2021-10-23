@@ -41,7 +41,7 @@
         "code": "0011",
         "gps": {
           "lat": -25.765993,
-          "long": 28.245393
+          "lng": 28.245393
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/101.jpg",
@@ -62,7 +62,7 @@
         "code": "0002",
         "gps": {
           "lat": -25.752775,
-          "long": 28.219086
+          "lng": 28.219086
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/102.jpg",
@@ -83,7 +83,7 @@
         "code": "0028",
         "gps": {
           "lat": -25.744387,
-          "long": 28.235137
+          "lng": 28.235137
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/104.jpg",
@@ -104,7 +104,7 @@
         "code": "0183",
         "gps": {
           "lat": -25.745933,
-          "long": 28.170334
+          "lng": 28.170334
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/106.jpg",
@@ -125,7 +125,7 @@
         "code": "0105",
         "gps": {
           "lat": -25.799547,
-          "long": 28.226886
+          "lng": 28.226886
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/116.jpg",
@@ -146,7 +146,7 @@
         "code": "0122",
         "gps": {
           "lat": -25.729275,
-          "long": 28.372079
+          "lng": 28.372079
         }
       },
       "featuredImage": "http://localhost:3009/img/events/2021/117.jpg",
